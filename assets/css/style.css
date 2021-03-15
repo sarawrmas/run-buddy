@@ -1,0 +1,51 @@
+/* Removes automatic margin around header making teal box and inline text flush */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Default font color and type for whole page */
+body {
+    color: #39a6b2;
+    font-family: Helvetica, Arial, sans-serif;
+  }
+
+
+/* Creates teal box around header */
+header {
+    padding: 20px 35px;
+    background-color: #39a6b2
+}  
+
+/* Font style and layout for header */
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #fce138;
+    margin: 0;
+    display: inline;
+}
+
+/* Removes default blue-underlined hyperlink and turns it orange */
+header a {
+    text-decoration: none;
+    color: #fce138;
+}
+
+/* Moves hyperlinks to the right allowing content to appear beside it */
+header nav {
+    float: right;
+    margin: 7px 0;
+}
+
+/* Hyperlink li's list side by side */
+header nav ul li {
+    display: inline;
+}
+
+/* Hyperlink li style and spacing */
+header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
+}
