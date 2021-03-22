@@ -9,13 +9,16 @@
 body {
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
-  }
+}
 
 
 /* Creates teal box around header */
 header {
     padding: 20px 35px;
-    background-color: #39a6b2
+    background-color: #39a6b2;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }  
 
 /* Font style and layout for header */
@@ -24,7 +27,6 @@ header h1 {
     font-size: 36px;
     color: #fce138;
     margin: 0;
-    display: inline;
 }
 
 /* Removes default blue-underlined hyperlink and turns it orange */
@@ -35,7 +37,6 @@ header a {
 
 /* Moves hyperlinks to the right allowing content to appear beside it */
 header nav {
-    float: right;
     margin: 7px 0;
 }
 
