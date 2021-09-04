@@ -1,16 +1,26 @@
-# Run Buddy, Inc
+# Run Buddy
 
-## Purpose
-A website that offers fitness training services.
+## Table of Contents
+* [Deployed](#deployed)
+* [Technologies](#technologies)
+* [Description](#description)
+* [Questions](#questions)
+* [Credits](#credits)
 
-## Built With
+## Deployed
+Access the website [here](https://sarawrmas.github.io/run-buddy/)
+
+## Technologies
 * HTML
 * CSS
 
-## Website
-https://sarawrmas.github.io/run-buddy/
+## Description
+This application is a resource for runners to find a personal trainer who fits their needs. Whether you're looking to increase your strength, speed, endurance, or overall fitness, Run Buddy has the trainer for you. Simply fill out the form on the landing page, and we will reach out to you to get your fitness journey started.
 
-## Contribution
-Made with ❤️ by Sara Adamski.
+## Questions
+Have questions about this project?  
+GitHub: https://github.com/sarawrmas  
+Email: sara.m.adamski@gmail.com
 
-### ©️2019 Run Buddy, Inc
+## Credits
+2021 by Sara Adamski
